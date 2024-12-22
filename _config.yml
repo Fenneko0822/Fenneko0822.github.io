@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-CN"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Too old to XXZW"
+title                    : "Too old to 写小作文"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Fenneko0822"
